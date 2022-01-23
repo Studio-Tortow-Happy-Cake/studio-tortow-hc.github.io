@@ -1,0 +1,392 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    background-color: rgb(215, 145, 218);
+    background-image: url(GrafikaHC/back.jpg);
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    background-image: url(GrafikaHC/back.jpg);
+    height: 1500px;
+}
+
+.mini{
+    float: left;
+    height: 70px;
+    width: 70px;
+    padding-top: 15px;
+    padding-left: 15px;
+    
+}
+
+.elena{
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: x-large;
+    float: left;
+    font-weight: 900;
+    font-style: oblique;
+    color: rgb(63, 9, 124);
+}
+
+
+.wrapper1 {
+    width: 100%;
+    margin-top: 0px;
+    background-image: url(GrafikaHC/back.jpg);
+    height: 1735px;
+  
+}
+
+.wrapper2{
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    background-image: url(GrafikaHC/back.jpg);
+    height: 1700px;
+}
+
+nav{
+    padding-left: 1px;
+    padding-right: 30px;
+    float: right;
+   padding-top: 15px;
+    text-align: center;
+    border-radius: 10px; 
+    font-size: large;
+}
+
+
+
+span{
+    font-weight: bolder;
+    font-size: large;
+    visibility: hidden;
+}
+
+.torty{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    background-color: rgb(228, 129, 195);
+    border-radius: 30px;
+    height: 1700px;
+    border: medium solid rgb(25, 6, 34);
+}
+
+.bloktort{
+    margin-left: 150px;
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    background-color: lightsalmon;
+    float: left;
+    border-radius: 20px;
+    border: medium solid rgb(127, 32, 172);
+}
+
+.menu{
+
+    background-color: rgb(163, 111, 231);
+    border: 1px  navy;
+    border-radius: 3px;
+    
+    
+}
+
+
+  
+header{
+    background-image: url(GrafikaHC/tlo.png);
+    background-position: center;
+    background-repeat: repeat-x;
+    background-size: cover;
+    height: 500px; ;
+    border-radius: 50px; 
+    border: medium solid rgb(13, 13, 59);
+    
+}
+
+footer{
+    margin-top: 0px;
+    background-color: rgb(122, 22, 180);
+    border-radius: 30px;
+    height: 200px;
+    border: medium solid rgb(25, 6, 34);
+    opacity: 0.7;
+}
+
+.pod{
+    background-image: url(GrafikaHC/tlo.png);
+    background-position: center;
+    background-repeat: repeat-x;
+    background-size: cover;
+    height: 350px; ;
+    border-radius: 50px; 
+    border: medium solid rgb(13, 13, 59);
+}
+
+
+
+
+
+.wybór1s{
+    margin-left: 60px;
+    height: 200px;
+    width: 170px;
+    margin-top: 10px;
+    
+}
+
+.strila{
+    float: left;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    
+}
+
+.strila:hover{
+    
+    color: blue;
+    background: aqua;
+    cursor: pointer;
+}
+
+.ST{
+    
+    padding-top: 70px;
+    margin-top: 0px;
+    padding-right: 300px;
+    text-align: center;
+    font-size: 2cm;
+    color: rgb(107, 62, 9);
+    text-shadow:7px 8px 10px rgb(187, 109, 21);
+    
+}
+
+
+.HP{
+    padding-right: 200px;
+    margin-bottom: 100px;
+    padding-left: 150px;
+    text-align: center;
+    font-size: 2cm;
+    color:  rgb(107, 62, 9);
+    text-shadow:5px 6px 10px rgb(187, 109, 21);
+}
+
+.haslo{
+    text-align: center;
+    font-size: 1.2cm;
+    font-weight: 900;
+    font-style: initial;
+    padding-right: 20px;
+    color:  rgb(107, 62, 9);
+    text-shadow:5px 6px 10px rgb(187, 109, 21);
+}
+
+.autor{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 15px;
+    background-color: rgb(228, 129, 195);
+    border-radius: 30px;
+    height: 1400px;
+    border: medium solid rgb(25, 6, 34);
+}
+
+.wybór{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    background-color: rgb(228, 129, 195);
+    border-radius: 30px;
+    height: 1000px;
+    border: medium solid rgb(25, 6, 34);
+}
+
+.blok{
+    margin-left: 150px;
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    background-color: lightsalmon;
+    float: left;
+    border-radius: 20px;
+    border: medium solid rgb(127, 32, 172);
+}
+
+.blok1{
+    margin-left: 80px;
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    background-color: lightsalmon;
+    float: left;
+    border-radius: 20px;
+    border: medium solid rgb(127, 32, 172); 
+}
+
+
+
+ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    }
+    
+    li a {
+    
+    font-family: Impact;
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 1.2em;
+    width: 130px;
+    text-decoration: none;
+    color: aqua;
+    background-color: blue;
+    padding: 10px 15px;
+    margin: 0px 1px 1px 0px;
+    border: 1px solid navy;
+    border-radius: 3px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 2px 3px gray;
+    -moz-box-shadow: 0px 2px 3px gray;
+    -webkit-box-shadow: 0px 2px 3px gray;
+    }
+    
+    li a:hover {
+    color: blue;
+    background: aqua;
+    cursor: pointer;
+    }
+
+    .blok:hover {
+        color: blue;
+        background: rgb(226, 230, 14);
+        cursor: pointer;
+        
+        }
+
+    .blok1:hover{
+        color: blue;
+        background: rgb(226, 230, 14);
+        cursor: pointer;
+    }
+  
+    .rainbow {
+        text-align: center;
+        font-size: 32px;
+        font-family: monospace;
+        letter-spacing: 5px;
+        font-weight: 900;
+        position: relative;
+    }
+    .rainbow_text_animated {
+        background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        animation: rainbow_animation 6s ease-in-out infinite;
+        background-size: 400% 100%;
+    }
+    
+    @keyframes rainbow_animation {
+        0%,100% {
+            background-position: 0 0;
+        }
+    
+        50% {
+            background-position: 100% 0;
+        }
+    }
+
+.rainbow1 {
+    text-align: center;
+    font-size: 32px;
+    font-family: monospace;
+    letter-spacing: 5px;
+    animation: colorRotate .5s linear 0s infinite;
+        
+      }
+      
+@keyframes colorRotate {
+        from {
+          color: #6666ff;
+        }
+        10% {
+          color: #0099ff;
+        }
+        50% {
+          color: #00ff00;
+        }
+        75% {
+          color: #ff3399;
+        }
+        100% {
+          color: #6666ff;
+        }
+      }
+
+.bento{
+    width: 120px;
+    height: 140px;
+    margin-left: 80px;
+    vertical-align: text-top;
+    border-radius: 20px;
+    border: medium solid rgb(93, 40, 190); 
+      }
+
+.podtorty{
+    height: 200px;
+    width: 140px;
+    border-radius: 20px;
+    border: medium solid rgb(93, 40, 190); 
+    margin-left: 70px;
+    margin-top: 5px;
+}
+
+.podtorty:hover {
+    color: blue;
+    background: rgb(226, 230, 14);
+    cursor: pointer;
+    }
+
+@media (min-width: 1100px) {
+
+    /* style dla 1050px */
+        
+    }
+
+@media (max-width: 1100px) and (min-width: 1000px) {
+
+    /* style dla 950px */
+            
+    }
+
+@media (max-width: 1000px) and (min-width: 800px) {
+
+    /* style dla 750px */
+        
+    }
+
+@media (max-width: 800px) and (min-width: 500px) {
+
+    /* style dla 450px */
+        
+    }
+
+@media (max-width: 500px) {
+
+    /* style dla 300px */
+        
+    }
